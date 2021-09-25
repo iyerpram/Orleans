@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans.Web", "src\Orleans.Web\Orleans.Web.csproj", "{249C5C10-E7CA-4C34-AFD6-E8C80C55C5B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{222CE5B7-7036-49F1-946F-527255BA2989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249C5C10-E7CA-4C34-AFD6-E8C80C55C5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249C5C10-E7CA-4C34-AFD6-E8C80C55C5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249C5C10-E7CA-4C34-AFD6-E8C80C55C5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249C5C10-E7CA-4C34-AFD6-E8C80C55C5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{249C5C10-E7CA-4C34-AFD6-E8C80C55C5B2} = {222CE5B7-7036-49F1-946F-527255BA2989}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA003CAE-8EDF-467D-9B25-87F76661A29D}
+	EndGlobalSection
+EndGlobal
